@@ -1,0 +1,36 @@
+﻿Stage,Status,Shortlisting_status,Interview_status
+Applied,,Not applicable,Not applicable
+Aptitude Test,Disqualified,Shortlisted,Not applicable
+Final Interview,Duplicate,Shortlisted,Not applicable
+Final Interview,No Show,Shortlisted,Not applicable
+Final Interview,Pending,Shortlisted,Not applicable
+Final Interview,Rejected,Shortlisted,Interview_rejected
+Final Interview,Selected,Shortlisted,Interview_selected
+Final Interview,Selected for future openings,Shortlisted,Interview_selected
+First Interview,No Show,Shortlisted,Not applicable
+First Interview,Rejected,Shortlisted,Interview_rejected
+Joining,Joined,Shortlisted,Interview_selected
+Offer,Approval Rejected,Shortlisted,Interview_selected
+Offer,Approval Request Raised,Shortlisted,Interview_selected
+Offer,Cancelled,Shortlisted,Interview_selected
+Offer,Checker Request Raised,Shortlisted,Interview_selected
+Offer,Drop,Shortlisted,Interview_selected
+Offer,Not Interested,Shortlisted,Interview_selected
+Offer,Offer Accepted,Shortlisted,Interview_selected
+Offer,Offer Approved,Shortlisted,Interview_selected
+Offer,Offer Generated,Shortlisted,Interview_selected
+Offer,Preparation In Process,Shortlisted,Interview_selected
+Offer,Quit,Shortlisted,Interview_selected
+Offer,Rejected,Shortlisted,Interview_selected
+OPQ,OPQ Completed,Shortlisted,Not applicable
+Sourcing,Applied,Not applicable,Not applicable
+Sourcing,Call Later,Not_shortlisted,Not applicable
+Sourcing,Duplicate,Not applicable,Not applicable
+Sourcing,Not Fit,Not_shortlisted,Not applicable
+Sourcing,Not Interested,Shortlisted,Not applicable
+Sourcing,Not Reachable,Not applicable,Not applicable
+Sourcing,Not ShortListed,Not_shortlisted,Not applicable
+Sourcing,Rejected,Not_shortlisted,Not applicable
+Sourcing,Shortlisted,Shortlisted,Not applicable
+Sourcing,Shortlisted For Current Vacancy,Shortlisted,Not applicable
+Sourcing,Shortlisted for future vacancy,Shortlisted,Not applicable

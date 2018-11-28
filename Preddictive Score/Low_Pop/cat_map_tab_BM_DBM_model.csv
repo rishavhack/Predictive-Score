@@ -1,0 +1,120 @@
+Variable_name,Category,New_category
+Gender,Female,Female
+Gender,Male,Male
+Gender,Unknown,Unknown
+Marital_Status,Married,Married
+Marital_Status,Single,Single
+Marital_Status,Undisclosed,Undisclosed
+QName1_Class,ARTS,ARTS
+QName1_Class,COMMERCE,COMMERCE
+QName1_Class,DIPLOMA,Low_pop_perc
+QName1_Class,ENGINEERING,ENGINEERING
+QName1_Class,IT,Low_pop_perc
+QName1_Class,LITERATURE,Low_pop_perc
+QName1_Class,MANAGEMENT,Low_pop_perc
+QName1_Class,NO_INFO,NO_INFO
+QName1_Class,OTHER,Low_pop_perc
+QName1_Class,SCIENCE,SCIENCE
+QName1_Class,UNKNOWN,Low_pop_perc
+QType1,Distance,Low_pop_perc
+QType1,Full Time,Full Time
+QType1,Part Time,Low_pop_perc
+QType1,Unknown,Unknown
+PGName2_Class,ARTS,Low_pop_perc
+PGName2_Class,COMMERCE,Low_pop_perc
+PGName2_Class,ENGINEERING,Low_pop_perc
+PGName2_Class,IT,Low_pop_perc
+PGName2_Class,MANAGEMENT,Low_pop_perc
+PGName2_Class,MBA,MBA
+PGName2_Class,NO_INFO,NO_INFO
+PGName2_Class,NOT APPLICABLE,Low_pop_perc
+PGName2_Class,OTHERS,Low_pop_perc
+PGName2_Class,SCIENCE,Low_pop_perc
+PGName2_Class,UNKNOWN,UNKNOWN
+PGSpec_Class,ACCOUNTS,Low_pop_perc
+PGSpec_Class,BANKING,Low_pop_perc
+PGSpec_Class,COMMERCE,Low_pop_perc
+PGSpec_Class,ENGINEERING,Low_pop_perc
+PGSpec_Class,FINANCE,FINANCE
+PGSpec_Class,IT,Low_pop_perc
+PGSpec_Class,MANAGEMENT,MANAGEMENT
+PGSpec_Class,NO_INFO,NO_INFO
+PGSpec_Class,OPERATIONS,Low_pop_perc
+PGSpec_Class,OTHERS,Low_pop_perc
+PGSpec_Class,PSYCHOLOGY,Low_pop_perc
+PGSpec_Class,SALES,Low_pop_perc
+PGSpec_Class,SCIENCE,Low_pop_perc
+PGSpec_Class,UNKNOWN,Low_pop_perc
+PGIns_Class,NO_INFO,NO_INFO
+PGIns_Class,TIER_1,Low_pop_perc
+PGIns_Class,TIER_2,Low_pop_perc
+PGIns_Class,TIER_3,TIER_3
+PGIns_Class,UNKNOWN,UNKNOWN
+Prev_Empl_Class,BANKING/BFSI,BANKING/BFSI
+Prev_Empl_Class,MICROING/BFSI,Low_pop_perc
+Prev_Empl_Class,NBFC,Low_pop_perc
+Prev_Empl_Class,NO_INFO,NO_INFO
+Prev_Empl_Class,NON BANKING,NON BANKING
+Prev_Empl_Class,UNKNOWN,Low_pop_perc
+Prev_Desig_Class,ACCOUNTS MANAGER,Low_pop_perc
+Prev_Desig_Class,ACCOUNTS OFFICER,Low_pop_perc
+Prev_Desig_Class,ASSISTANT MANAGER,ASSISTANT MANAGER
+Prev_Desig_Class,AUDIT MANAGER,Low_pop_perc
+Prev_Desig_Class,BRANCH MANAGER,BRANCH MANAGER
+Prev_Desig_Class,CREDIT MANAGER,Low_pop_perc
+Prev_Desig_Class,DEBT SERVICE MANAGEMENT GROUP,Low_pop_perc
+Prev_Desig_Class,DEPUTY BRANCH MANAGER,Low_pop_perc
+Prev_Desig_Class,DEPUTY MANAGER,Low_pop_perc
+Prev_Desig_Class,MANAGER,MANAGER
+Prev_Desig_Class,NO_INFO,NO_INFO
+Prev_Desig_Class,OPERATIONS MANAGER,Low_pop_perc
+Prev_Desig_Class,OPERATIONS OFFICER,Low_pop_perc
+Prev_Desig_Class,OTHERS,OTHERS
+Prev_Desig_Class,RELATIONSHIP MANAGER,Low_pop_perc
+Prev_Desig_Class,SALES,Low_pop_perc
+Prev_Desig_Class,SALES MANAGER,Low_pop_perc
+Prev_Desig_Class,SALES OFFICER,Low_pop_perc
+Prev_Desig_Class,UNKNOWN,Low_pop_perc
+Prev_Desig_Class,WEALTH MANAGER,Low_pop_perc
+Prev_Desig_Class,ZONAL MANAGER,Low_pop_perc
+Industry_Class,AGRICULTURE,Low_pop_perc
+Industry_Class,BANKING,BANKING
+Industry_Class,BFSI OTHER THAN BANKING,Low_pop_perc
+Industry_Class,CONSULTING,Low_pop_perc
+Industry_Class,ENGINEERING,Low_pop_perc
+Industry_Class,FMCG,Low_pop_perc
+Industry_Class,NO_INFO,NO_INFO
+Industry_Class,OTHERS,OTHERS
+Industry_Class,REAL ESTATE,Low_pop_perc
+Industry_Class,TELECOM,Low_pop_perc
+Industry_Class,UNKNOWN,Low_pop_perc
+Function_Class,ACCOUNTS/FINANCE,Low_pop_perc
+Function_Class,ADMINISTRATION,Low_pop_perc
+Function_Class,AIRLINES,Low_pop_perc
+Function_Class,ANALYTICS/DATA,Low_pop_perc
+Function_Class,BANKING,BANKING
+Function_Class,CONSULTING,Low_pop_perc
+Function_Class,CUSTOMER SUPPORT/BPO,CUSTOMER SUPPORT/BPO
+Function_Class,EDUCATION,Low_pop_perc
+Function_Class,ENGINEEING/TECHNOLOGY,Low_pop_perc
+Function_Class,ENGINEERING,Low_pop_perc
+Function_Class,ENGINEERING/TECHNOLOGY,Low_pop_perc
+Function_Class,HR,Low_pop_perc
+Function_Class,IT,IT
+Function_Class,JOURNALISM,Low_pop_perc
+Function_Class,LEGAL,Low_pop_perc
+Function_Class,MARKETING,Low_pop_perc
+Function_Class,OPERATIONS,Low_pop_perc
+Function_Class,OTHERS,Low_pop_perc
+Function_Class,RESEARCH AND DEVELOPMENT,Low_pop_perc
+Function_Class,SALES,SALES
+Function_Class,UKNOWN,UKNOWN
+Source_Name,Campus,Low_pop_perc
+Source_Name,Consultant,Consultant
+Source_Name,EGES,EGES
+Source_Name,ICICI Careers,ICICI Careers
+Source_Name,Industry Academia,Low_pop_perc
+Source_Name,Job Portal,Low_pop_perc
+Title_Class,BM,BM
+Title_Class,CBM,CBM
+Title_Class,DBM,DBM

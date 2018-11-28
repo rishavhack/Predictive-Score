@@ -1,0 +1,38 @@
+﻿Industry,Industry_Class
+4.03,UNKNOWN
+9,UNKNOWN
+Advertising,OTHERS
+Agriculture,AGRICULTURE
+Automobile,ENGINEERING
+Aviation,ENGINEERING
+Banking,BANKING
+BFSI (Other than banking),BFSI OTHER THAN BANKING 
+Biotech,ENGINEERING
+"BPO, ITES, Telecom",TELECOM
+Civil,REAL ESTATE
+Consulting,CONSULTING
+Education,OTHERS
+Engineering,ENGINEERING
+Entertainment,OTHERS
+FMCG,FMCG
+HealthCare,OTHERS
+"Hospitality (Hotel, Restaurants & Resorts)",REAL ESTATE
+Infrastructure,ENGINEERING
+IT,ENGINEERING
+IT Hardware,ENGINEERING
+IT Software,ENGINEERING
+"IT Software, BPO & Support.",ENGINEERING
+Legal,OTHERS
+Logistics,OTHERS
+Manufacturing,FMCG
+Mining,FMCG
+Oil & Gas,FMCG
+Others,OTHERS
+Petrochemicals,FMCG
+Pharmaceutical,FMCG
+Power,FMCG
+Real Estate,REAL ESTATE
+Retail,FMCG
+Shipping,FMCG
+Steel,FMCG
+Telecommunication,TELECOM
