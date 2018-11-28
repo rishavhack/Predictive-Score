@@ -1,0 +1,20 @@
+1.Candidate RID,
+2.Gender
+3.Age
+4.Martital Status
+5.Q-Name(Qualification) - Like - B.tech,
+6.Q-Type 		- Like- Full Time,
+7.Q-percentage
+8.PG-Name(Post-Grad)
+9.PG-Specification
+10.PGIns(University or College Name)
+11.PG-Percentage
+12.Previous Employer
+13.Previous Designation
+14.Present CTC
+15.Work Experience
+16.Industry
+17.Functional Area
+18.Source Name
+19.Stage/Status
+20.Indent Title
